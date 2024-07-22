@@ -59,7 +59,4 @@ if solution:
 else:
     print("No solution exists.")
 
-OUTPUT
-Solution found!
-right
-down
+
